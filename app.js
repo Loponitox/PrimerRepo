@@ -6,4 +6,4 @@ if(tizafen){
     console.log("traer tizafen")
 }else if(!tizafen){
     console.log("traer tizafen")
-}
+}   
