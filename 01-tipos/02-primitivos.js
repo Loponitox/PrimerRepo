@@ -3,3 +3,4 @@ let texto = "HOLA MUNDO";
 let verdadero =  true;
 let falso = false;
 let noDefinido ;
+let nulo = null;
